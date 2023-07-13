@@ -6,7 +6,7 @@
 
 后端 | 热爱编程 :hatching_chick:
 
-慎终如始，则无败事。 :running:
+满招损，谦受益 :running:
 
 
 <!--[![码云](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-soulnull-red)](https://gitee.com/myxiesn)-->
