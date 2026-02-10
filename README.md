@@ -2,7 +2,7 @@
 <div align="right">
   <img width="300" height="169" src="https://api.paugram.com/wallpaper/?t=Date.now()" />
 </div>
-# 👋 Hi, I'm [小明de烦恼](https://www.cnblogs.com/miluluyo/)
+# 👋 Hi, I'm [小明de烦恼](https://www.cnblogs.com/xmdfn/)
 
 Backend Developer | 🧑‍💻 热爱编程 | ❤️ 开源爱好者
 
@@ -51,7 +51,7 @@ Backend Developer | 🧑‍💻 热爱编程 | ❤️ 开源爱好者
 
 | 平台        | 链接 |
 |-------------|------|
-| Blog        | [博客园 - 小明de烦恼](https://www.cnblogs.com/miluluyo/) |
+| Blog        | [博客园 - 小明de烦恼](https://www.cnblogs.com/xmdfn/) |
 | GitHub      | [GitHub Profile](https://github.com/xxxxsn) |
 
 ---
